@@ -1,1 +1,3 @@
 # Iterative_Linear_Regression
+This repository is a self study about the iterative approach on linear regression. The structure of the code (the idea of what to put in it cell and the explanation text cells) was made by Nina Sumiko Tomita Hirata, my professor at University of São Paulo, while the code itself was made by me.  
+This repository also has a public dataset with the values of houses according to some specific features (quantity of rooms, quantity of industries in the region etc). It helps us make tests with our code, enabling us to find, via the iterative approach of linear regression, the best linear fucntion that describes the value of a house according to determinated features. 
